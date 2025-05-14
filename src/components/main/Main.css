@@ -1,0 +1,1139 @@
+.buttons1 {
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    color: white;
+    background-color: #0075FF;
+}
+
+.mainsection1 {
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.getafree {
+    display: flex;
+    align-items: center;
+}
+
+.logoteops {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.callusme {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.ssdayt {
+    margin-bottom: -20px;
+}
+
+.cleaning {
+    font-size: 63px;
+}
+
+.condimentum {
+    width: 400px;
+}
+
+.imagesurat1 {
+    width: 500px;
+}
+
+.workstoourdefinition {
+    text-align: center;
+    margin-top: 50px;
+
+    h2 {
+        font-size: 45px;
+    }
+
+    p {
+        width: 400px;
+        text-align: center;
+        margin-left: 470px;
+    }
+}
+
+.allarticlediv {
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    justify-content: center;
+    gap: 50px;
+    text-align: center;
+
+    p {
+        width: 300px;
+    }
+}
+
+.buttonmain1 {
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    color: white;
+    background-color: #0075FF;
+}
+
+.explorebutton1 {
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.dudivbutton {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.allredcard {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 100px;
+
+    article {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    p {
+        margin-bottom: -20px;
+    }
+}
+
+.comparison {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+
+    h2 {
+        font-size: 40px;
+        width: 470px;
+        margin-left: 450px;
+        margin-top: 100px;
+    }
+
+    p {
+        width: 450px;
+        margin-left: 470px;
+        margin-top: -20px;
+    }
+}
+
+.imagesdiv {
+    margin-top: 50px;
+    text-align: center;
+    justify-content: center;
+
+    img {
+        width: 800px;
+        text-align: center;
+
+    }
+
+}
+
+.section5divmemories {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+
+    h2 {
+        width: 400px;
+        font-size: 40px;
+    }
+
+}
+
+.memorendumandsciens {
+
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
+
+    article {
+        border: 1px solid black;
+        width: 300px;
+        padding: 10px;
+        align-items: center;
+        text-align: center;
+        border-radius: 10px;
+
+    }
+}
+
+.ousecleaning {
+    margin-top: 50px;
+}
+
+.industrialhouse {
+    margin-top: 40px;
+}
+
+.asidall {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    background-color: #211F54;
+    margin-top: 80px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    gap: 20px;
+}
+
+.covidday {
+    margin-bottom: -20px;
+    margin-left: 20px;
+}
+
+.allspandiv {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    p {
+        display: flex;
+        align-items: center;
+        font-weight: bold;
+    }
+}
+
+.memoriseadd {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+    gap: 20px;
+}
+
+.bfbf {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+
+}
+
+.oficcercalled {
+    font-size: 50px;
+}
+
+.obgfd {
+    width: 400px;
+}
+
+.artoclsd {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+    h2 {
+        font-size: 30px;
+    }
+
+    p {
+        margin-top: -20px;
+    }
+
+    span {
+        color: #0075FF;
+    }
+}
+
+
+
+
+
+
+
+
+
+.articles-section {
+    background: #fff;
+    padding: 40px 20px;
+    max-width: 1000px;
+    margin: 40px auto;
+    margin-top: 150px;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.articles-header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.articles-header h2 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.articles-header p {
+    max-width: 400px;
+    margin-top: 10px;
+    color: #555;
+}
+
+.articles-buttons {
+    display: flex;
+    gap: 10px;
+    align-items: start;
+    margin-top: 10px;
+}
+
+.btn {
+    padding: 10px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn.blue {
+    background: #007bff;
+    color: white;
+}
+
+.btn.light {
+    background: #eee;
+    color: #333;
+}
+
+.articles-grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.article-card {
+    background: #f9f9f9;
+    border-radius: 12px;
+    overflow: hidden;
+    flex: 1 1 calc(50% - 20px);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.article-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.article-content {
+    padding: 20px;
+}
+
+.article-content h3 {
+    font-size: 16px;
+    margin: 0 0 10px;
+}
+
+.article-content p {
+    font-size: 14px;
+    color: #555;
+}
+
+.article-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.article-footer span {
+    font-size: 12px;
+    color: #333;
+}
+
+.square-icon {
+    width: 20px;
+    height: 20px;
+    background: #007bff;
+}
+
+
+
+
+
+/* quote.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f8fc;
+}
+
+.quote-section {
+    padding: 60px 20px;
+}
+
+.container {
+    display: flex;
+    max-width: 1100px;
+    margin: 0 auto;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.quote-left {
+    flex: 1 1 40%;
+}
+
+.quote-left h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.quote-left p {
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.phone-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.phone-icon {
+    font-size: 30px;
+    color: #007bff;
+    margin-right: 15px;
+}
+
+.phone-text span {
+    font-size: 12px;
+    color: #888;
+    display: block;
+}
+
+.phone-text strong {
+    font-size: 18px;
+    color: #000;
+}
+
+.not-convinced h4 {
+    margin-bottom: 5px;
+}
+
+.not-convinced p {
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.quote-form {
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    display: grid;
+    gap: 15px;
+    flex: 1 1 50%;
+    min-width: 300px;
+}
+
+.quote-form input,
+.quote-form textarea {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.quote-form textarea {
+    resize: vertical;
+    min-height: 80px;
+}
+
+.btn {
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn.blue {
+    background: #007bff;
+    color: white;
+}
+
+.btn.light {
+    background: #eee;
+    color: #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Базовые стили для всех устройств */
+.buttons1 {
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    color: white;
+    background-color: #0075FF;
+}
+
+.mainsection1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 0 20px;
+}
+
+.getafree {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.logoteops {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.callusme {
+    display: flex;
+    flex-direction: column;
+}
+
+.ssdayt {
+    margin-bottom: -20px;
+}
+
+.cleaning {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.condimentum {
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.imagesurat1 {
+    width: 100%;
+    max-width: 500px;
+    margin-top: 30px;
+}
+
+.workstoourdefinition {
+    text-align: center;
+    margin-top: 50px;
+    padding: 0 20px;
+}
+
+.workstoourdefinition h2 {
+    font-size: 2rem;
+}
+
+.workstoourdefinition p {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.allarticlediv {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    margin: auto;
+    justify-content: center;
+    gap: 50px;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.allarticlediv p {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.buttonmain1, .explorebutton1 {
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.buttonmain1 {
+    color: white;
+    background-color: #0075FF;
+}
+
+.explorebutton1 {
+    background-color: white;
+}
+
+.dudivbutton {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 40px;
+    align-items: center;
+}
+
+.allredcard {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 0 20px;
+}
+
+.allredcard article {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.allredcard p {
+    margin-bottom: -20px;
+}
+
+.comparison {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+.comparison h2 {
+    font-size: 1.8rem;
+    width: 100%;
+    margin: 30px auto 0;
+}
+
+.comparison p {
+    width: 100%;
+    max-width: 450px;
+    margin: 20px auto;
+}
+
+.imagesdiv {
+    margin-top: 50px;
+    text-align: center;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+.imagesdiv img {
+    width: 100%;
+    max-width: 800px;
+}
+
+.section5divmemories {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 0 20px;
+    gap: 20px;
+}
+
+.section5divmemories h2 {
+    width: 100%;
+    max-width: 400px;
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+.memorendumandsciens {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 0 20px;
+}
+
+.memorendumandsciens article {
+    border: 1px solid black;
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.ousecleaning, .industrialhouse {
+    margin-top: 20px;
+}
+
+.asidall {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    background-color: #211F54;
+    margin-top: 80px;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    gap: 20px;
+}
+
+.covidday {
+    margin-bottom: -20px;
+}
+
+.allspandiv {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.allspandiv p {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+.memoriseadd {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+    gap: 40px;
+    padding: 0 20px;
+}
+
+.bfbf {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.oficcercalled {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.obgfd {
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.artoclsd {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    text-align: center;
+}
+
+.artoclsd h2 {
+    font-size: 1.8rem;
+}
+
+.artoclsd p {
+    margin-top: -20px;
+}
+
+.artoclsd span {
+    color: #0075FF;
+}
+
+/* Стили для Articles section */
+.articles-section {
+    background: #fff;
+    padding: 40px 20px;
+    max-width: 1000px;
+    margin: 40px auto;
+    margin-top: 150px;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.articles-header {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.articles-header h2 {
+    margin: 0;
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+.articles-header p {
+    max-width: 400px;
+    margin: 10px auto;
+    color: #555;
+    text-align: center;
+}
+
+.articles-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 10px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+}
+
+.btn.blue {
+    background: #007bff;
+    color: white;
+}
+
+.btn.light {
+    background: #eee;
+    color: #333;
+}
+
+.articles-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.article-card {
+    background: #f9f9f9;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.article-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.article-content {
+    padding: 20px;
+}
+
+.article-content h3 {
+    font-size: 1.1rem;
+    margin: 0 0 10px;
+}
+
+.article-content p {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.article-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.article-footer span {
+    font-size: 0.8rem;
+    color: #333;
+}
+
+.square-icon {
+    width: 20px;
+    height: 20px;
+    background: #007bff;
+}
+
+/* Стили для Quote section */
+.quote-section {
+    padding: 60px 20px;
+}
+
+.quote-left {
+    flex: 1 1 100%;
+    margin-bottom: 40px;
+}
+
+.quote-left h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.quote-left p {
+    color: #666;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.phone-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.phone-icon {
+    font-size: 30px;
+    color: #007bff;
+    margin-right: 15px;
+}
+
+.phone-text span {
+    font-size: 0.8rem;
+    color: #888;
+    display: block;
+}
+
+.phone-text strong {
+    font-size: 1.1rem;
+    color: #000;
+}
+
+.not-convinced {
+    text-align: center;
+}
+
+.not-convinced h4 {
+    margin-bottom: 5px;
+}
+
+.not-convinced p {
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.quote-form {
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    display: grid;
+    gap: 15px;
+    flex: 1 1 100%;
+}
+
+.quote-form input,
+.quote-form textarea {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.quote-form textarea {
+    resize: vertical;
+    min-height: 80px;
+}
+
+
+@media (min-width: 768px) {
+    .mainsection1 {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    .getafree {
+        flex-direction: row;
+    }
+    
+    .cleaning, .condimentum {
+        text-align: left;
+    }
+    
+    .allarticlediv {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+    .dudivbutton {
+        flex-direction: row;
+    }
+    
+    .allredcard {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+    .memorendumandsciens {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+    .bfbf {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    .articles-header {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .articles-header h2, 
+    .articles-header p {
+        text-align: left;
+    }
+    
+    .articles-buttons {
+        flex-direction: row;
+    }
+    
+    .articles-grid {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+    .article-card {
+        flex: 1 1 calc(50% - 20px);
+    }
+    
+    .container {
+        flex-direction: row;
+    }
+    
+    .quote-left {
+        text-align: left;
+    }
+    
+    .quote-left h2, 
+    .quote-left p {
+        text-align: left;
+    }
+    
+    .phone-box {
+        justify-content: flex-start;
+    }
+    
+    .not-convinced {
+        text-align: left;
+    }
+}
+
+
+@media (min-width: 1024px) {
+    .cleaning {
+        font-size: 3.5rem;
+    }
+    
+    .workstoourdefinition h2 {
+        font-size: 2.5rem;
+    }
+    
+    .section5divmemories {
+        flex-direction: row;
+    }
+    
+    .section5divmemories h2 {
+        text-align: left;
+    }
+    
+    .asidall {
+        flex-direction: row;
+        padding: 40px;
+    }
+    
+    .memoriseadd {
+        flex-direction: row;
+        align-items: center;
+        text-align: left;
+    }
+    
+    .oficcercalled, .obgfd {
+        text-align: left;
+    }
+    
+    .artoclsd {
+        flex-direction: row;
+    }
+    
+    .articles-header h2 {
+        font-size: 2rem;
+    }
+    
+    .quote-left h2 {
+        font-size: 2rem;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    .mainsection1, 
+    .allarticlediv, 
+    .section5divmemories, 
+    .asidall, 
+    .memoriseadd {
+        max-width: 1200px;
+    }
+}
